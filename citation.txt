@@ -1,0 +1,7 @@
+@inproceedings{REPO017,
+    author = "Chen, Yunpeng and Fan, Haoqi and Xu, Bing and Yan, Zhicheng and Kalantidis, Yannis and Rohrbach, Marcus and Yan, Shuicheng and Feng, Jiashi",
+    booktitle = "Proceedings of the IEEE/CVF international conference on computer vision",
+    pages = "3435--3444",
+    title = "{Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution}",
+    year = "2019"
+}
