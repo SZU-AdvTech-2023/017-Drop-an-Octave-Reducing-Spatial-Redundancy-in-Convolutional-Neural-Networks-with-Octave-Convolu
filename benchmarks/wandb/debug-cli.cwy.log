@@ -1,0 +1,123 @@
+2023-12-07 13:12:54 INFO open for scan: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/run-jtw6e5sv.wandb
+2023-12-07 13:12:54 INFO watching files in: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files
+2023-12-07 13:12:54 INFO run started: jtw6e5sv with start time 1701937451.26057
+2023-12-07 13:12:54 INFO saving file wandb-metadata.json with policy now
+2023-12-07 13:12:56 INFO file/dir created: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log
+2023-12-07 13:12:56 INFO Uploaded file /tmp/tmp1ggj9sugwandb/slcqdawc-wandb-metadata.json
+2023-12-07 13:12:58 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/wandb-summary.json
+2023-12-07 13:12:58 INFO saving file wandb-summary.json with policy end
+2023-12-07 13:12:58 INFO handling exit code: 0
+2023-12-07 13:12:58 INFO handling runtime: 16512
+2023-12-07 13:12:58 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log
+2023-12-07 13:12:59 INFO saving file wandb-summary.json with policy end
+2023-12-07 13:12:59 INFO send defer
+2023-12-07 13:12:59 INFO handle sender defer: 0
+2023-12-07 13:12:59 INFO send defer: 1
+2023-12-07 13:12:59 INFO handle sender defer: 1
+2023-12-07 13:12:59 INFO send defer: 2
+2023-12-07 13:12:59 INFO handle sender defer: 2
+2023-12-07 13:12:59 INFO send defer: 3
+2023-12-07 13:12:59 INFO handle sender defer: 3
+2023-12-07 13:12:59 INFO send defer: 4
+2023-12-07 13:12:59 INFO handle sender defer: 4
+2023-12-07 13:12:59 INFO send defer: 5
+2023-12-07 13:12:59 INFO handle sender defer: 5
+2023-12-07 13:12:59 INFO send defer: 6
+2023-12-07 13:12:59 INFO handle sender defer: 6
+2023-12-07 13:12:59 INFO send defer: 7
+2023-12-07 13:12:59 INFO handle sender defer: 7
+2023-12-07 13:13:00 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/wandb-summary.json
+2023-12-07 13:13:00 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/config.yaml
+2023-12-07 13:13:04 INFO processing output...
+2023-12-07 13:13:06 WARNING Terminal output too large. Logging without processing.
+2023-12-07 13:13:07 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log
+2023-12-07 13:13:08 INFO send defer: 8
+2023-12-07 13:13:08 INFO handle sender defer: 8
+2023-12-07 13:13:08 INFO Attempting to build job artifact
+2023-12-07 13:13:08 INFO no source found
+2023-12-07 13:13:08 INFO send defer: 9
+2023-12-07 13:13:08 INFO handle sender defer: 9
+2023-12-07 13:13:08 INFO shutting down directory watcher
+2023-12-07 13:13:08 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log
+2023-12-07 13:13:08 INFO scan: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/requirements.txt requirements.txt
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/wandb-metadata.json wandb-metadata.json
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/config.yaml config.yaml
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log output.log
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/wandb-summary.json wandb-summary.json
+2023-12-07 13:13:08 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/conda-environment.yaml conda-environment.yaml
+2023-12-07 13:13:08 INFO send defer: 10
+2023-12-07 13:13:08 INFO handle sender defer: 10
+2023-12-07 13:13:08 INFO shutting down file pusher
+2023-12-07 13:13:08 INFO shutting down sender
+2023-12-07 13:13:08 INFO shutting down file pusher
+2023-12-07 13:13:08 INFO waiting for file pusher
+2023-12-07 13:13:08 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/requirements.txt
+2023-12-07 13:13:09 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/wandb-summary.json
+2023-12-07 13:13:09 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/config.yaml
+2023-12-07 13:13:10 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/output.log
+2023-12-07 13:13:11 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_082411-jtw6e5sv/files/conda-environment.yaml
+2023-12-07 13:13:11 INFO send defer: 11
+2023-12-07 13:13:11 INFO file stream finish called
+2023-12-07 13:13:14 INFO file stream finish is done
+2023-12-08 07:55:29 INFO open for scan: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/run-446bfxsj.wandb
+2023-12-08 07:55:30 INFO watching files in: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files
+2023-12-08 07:55:30 INFO run started: 446bfxsj with start time 1701936728.764118
+2023-12-08 07:55:30 INFO saving file wandb-metadata.json with policy now
+2023-12-08 07:55:31 INFO file/dir created: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:31 INFO Uploaded file /tmp/tmptz5c5_k0wandb/2hb7bmfj-wandb-metadata.json
+2023-12-08 07:55:32 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:36 INFO saving file wandb-summary.json with policy end
+2023-12-08 07:55:36 INFO handling exit code: 0
+2023-12-08 07:55:36 INFO handling runtime: 23793
+2023-12-08 07:55:37 INFO saving file wandb-summary.json with policy end
+2023-12-08 07:55:37 INFO send defer
+2023-12-08 07:55:37 INFO handle sender defer: 0
+2023-12-08 07:55:37 INFO send defer: 1
+2023-12-08 07:55:37 INFO handle sender defer: 1
+2023-12-08 07:55:37 INFO send defer: 2
+2023-12-08 07:55:37 INFO handle sender defer: 2
+2023-12-08 07:55:37 INFO send defer: 3
+2023-12-08 07:55:37 INFO handle sender defer: 3
+2023-12-08 07:55:37 INFO send defer: 4
+2023-12-08 07:55:37 INFO handle sender defer: 4
+2023-12-08 07:55:37 INFO send defer: 5
+2023-12-08 07:55:37 INFO handle sender defer: 5
+2023-12-08 07:55:37 INFO send defer: 6
+2023-12-08 07:55:37 INFO handle sender defer: 6
+2023-12-08 07:55:37 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/wandb-summary.json
+2023-12-08 07:55:37 INFO send defer: 7
+2023-12-08 07:55:37 INFO handle sender defer: 7
+2023-12-08 07:55:38 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/config.yaml
+2023-12-08 07:55:41 WARNING Terminal output too large. Logging without processing.
+2023-12-08 07:55:41 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:42 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:43 INFO send defer: 8
+2023-12-08 07:55:43 INFO handle sender defer: 8
+2023-12-08 07:55:43 INFO Attempting to build job artifact
+2023-12-08 07:55:43 INFO no source found
+2023-12-08 07:55:43 INFO send defer: 9
+2023-12-08 07:55:43 INFO handle sender defer: 9
+2023-12-08 07:55:43 INFO shutting down directory watcher
+2023-12-08 07:55:43 INFO file/dir modified: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:43 INFO scan: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/requirements.txt requirements.txt
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/wandb-metadata.json wandb-metadata.json
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/config.yaml config.yaml
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log output.log
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/wandb-summary.json wandb-summary.json
+2023-12-08 07:55:43 INFO scan save: /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/conda-environment.yaml conda-environment.yaml
+2023-12-08 07:55:43 INFO send defer: 10
+2023-12-08 07:55:43 INFO handle sender defer: 10
+2023-12-08 07:55:43 INFO shutting down file pusher
+2023-12-08 07:55:43 INFO shutting down sender
+2023-12-08 07:55:43 INFO shutting down file pusher
+2023-12-08 07:55:43 INFO waiting for file pusher
+2023-12-08 07:55:44 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/requirements.txt
+2023-12-08 07:55:44 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/config.yaml
+2023-12-08 07:55:44 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/wandb-summary.json
+2023-12-08 07:55:44 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/conda-environment.yaml
+2023-12-08 07:55:45 INFO Uploaded file /sdo/cwy/octconv-master/benchmarks/wandb/offline-run-20231207_081208-446bfxsj/files/output.log
+2023-12-08 07:55:45 INFO send defer: 11
+2023-12-08 07:55:46 INFO file stream finish called
+2023-12-08 07:56:05 INFO file stream finish is done
